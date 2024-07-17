@@ -41,6 +41,7 @@ Clone the repository:
    ```
    git clone [https://github.com/your-username/sentiment-analysis-lstm.git](https://github.com/Ahmedmostafa2000/Twitter_sentiment_analysis)
    ```
+You will find weights under weights/best_model.keras
 
 ## Acknowledgments
 
