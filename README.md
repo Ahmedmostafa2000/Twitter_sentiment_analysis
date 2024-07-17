@@ -1,6 +1,6 @@
 # Twitter_sentiment_analysis
 
-# Sentiment Analysis with LSTM using TensorFlow
+## Sentiment Analysis with LSTM using TensorFlow
 
 ## Overview
 This repository contains a sentiment analysis project using LSTM (Long Short-Term Memory) neural networks implemented in TensorFlow. The model is trained on a Twitter dataset to classify tweets into positive and negative sentiment categories.
